@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/icons8-add-file-50.png</file>
+        <file>icon/icons8-copy-48.png</file>
+        <file>icon/icons8-cut-48.png</file>
+        <file>icon/icons8-exit-64.png</file>
+        <file>icon/icons8-open-folder-32.png</file>
+        <file>icon/icons8-paste-64.png</file>
+        <file>icon/icons8-redo-48.png</file>
+        <file>icon/icons8-save-48.png</file>
+        <file>icon/icons8-save-as-16.png</file>
+        <file>icon/icons8-undo-48.png</file>
+        <file>icon/icons8-new-file-48.png</file>
+        <file>icon/icons8-exit-60.png</file>
+        <file>icon/icons8-logout-rounded-left-50.png</file>
+    </qresource>
+</RCC>
